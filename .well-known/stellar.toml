@@ -1,0 +1,22 @@
+# PATRIOT METALS STELLAR TOML
+VERSION = "2.0.0"
+NETWORK_PASSPHRASE = "Test SDF Network ; September 2015"
+
+[[CURRENCIES]]
+code = "PMC"
+issuer = "GAD64V5HAEWJ6PT3QVFWU6FTQ7RV6KQIQG7BEOHBPFCNFK4JIGC2TZUP"
+name = "Patriot Metals Coin"
+desc = "PMC is the official digital token of Patriot Metals, created for testnet evaluation on Stellar."
+conditions = "Issued on Stellar testnet for development and validation."
+display_decimals = 4
+status = "live"
+image = "https://patriotmetals1776-jpg.github.io/pmc-logo.png"
+anchor_asset_type = "crypto"
+
+[DOCUMENTATION]
+ORG_NAME = "Patriot Metals"
+ORG_URL = "https://patriotmetals1776.com"
+ORG_LOGO = "https://patriotmetals1776-jpg.github.io/pmc-logo.png"
+ORG_DESCRIPTION = "Patriot Metals is a precious metals and blockchain innovation brand."
+ORG_TWITTER = "@PatriotMetals"
+ORG_OFFICIAL_EMAIL = "info@patriotmetals1776.com"
